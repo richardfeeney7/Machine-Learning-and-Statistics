@@ -32,7 +32,7 @@ that can predict the median house price based on the other variables in the data
 6. See the below photo of steps that I took, please note that your machine and downloads might be in a different location. 
 <br><br>
 
-<p align ="center"><img src="images/CLI.JPG" alt="Command Line" width="400" height="400" title="CLI"/></p>
+<p align ="center"><img src="images/CLI.JPG" alt="Command Line" width="300" height="300" title="CLI"/></p>
 </div>
 <hr>
 
