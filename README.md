@@ -20,6 +20,7 @@ statistics to analyse whether there is a significant difference in median house 
 3. <b><i>Predict</i></b>: Use keras to create a neural network
 that can predict the median house price based on the other variables in the dataset.
 </div>
+<br><br>
 
 ### How To Run The Boston House Prices Dataset
 <div align="justify">
@@ -29,8 +30,9 @@ that can predict the median house price based on the other variables in the data
 4. Once in the correct location type Jupyter Lab or Jupyter Notebook into the command like. This will open a web server where you can access the files. Depending on the settings this might open Internet Explorer, I would recommend closing that web page and use the web address that you can see in the command line. <br><br>
 5. When you open the web server and can view my project file, open the <u><b><i>.ipynb</i></b></u> document to view the project. <br><br>
 6. See the below photo of steps that I took, please note that your machine and downloads might be in a different location. 
+<br><br>
 
-<p align ="center"><img src="images/CLI.JPG" alt="Command Line" width="500" height="500" title="CLI"/></p>
+<p align ="center"><img src="images/CLI.JPG" alt="Command Line" width="400" height="400" title="CLI"/></p>
 </div>
 <hr>
 
