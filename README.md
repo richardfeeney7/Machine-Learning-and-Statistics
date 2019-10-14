@@ -8,7 +8,7 @@
 
 # Introduction
 
-### Iris Data Set Project Outline And Objectives
+### Project Outline And Objectives
 <div align="justify"> The following project is based on the well-known Boston House Prices data set. Every record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. 
 
 In this project I will use a .csv file for researching and explaining what the data set is all about and write some Python scripts using the Jupyter along with other packages to backup my findings. This project will be broken down into three parts and these are as follows</div><br>
