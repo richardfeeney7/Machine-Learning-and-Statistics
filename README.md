@@ -36,4 +36,18 @@ that can predict the median house price based on the other variables in the data
 </div>
 <hr>
 
+### Biobliography
+<div align="justify">
+1. GeeksforGeeks. (2019). Python | Pandas dataframe.corr() - GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/python-pandas-dataframe-corr/ [Accessed 7 Nov. 2019].<br><br>
+2. Scikit-learn.org. (2019). sklearn.model_selection.train_test_split — scikit-learn 0.21.3 documentation. [online] Available at: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html [Accessed 7 Nov. 2019].<br><br>
+3. Medium. (2019). How to split your dataset to train and test datasets using SciKit Learn. [online] Available at: https://medium.com/@contactsunny/how-to-split-your-dataset-to-train-and-test-datasets-using-scikit-learn-e7cf6eb5e0d [Accessed 7 Nov. 2019].<br><br>
+4. Singh, D. and scikit-learn, V. (2019). Validating Machine Learning Models with scikit-learn | Pluralsight. [online] Pluralsight.com. Available at: https://www.pluralsight.com/guides/validating-machine-learning-models-scikit-learn [Accessed 7 Nov. 2019].<br><br>
+5. Kaggle.com. (2019). Boston Housing Price dataset with Keras | Kaggle. [online] Available at: https://www.kaggle.com/shanekonaung/boston-housing-price-dataset-with-keras [Accessed 7 Nov. 2019].<br><br>
+6. Faroit.com. (2019). Guide to the Sequential model - Keras Documentation. [online] Available at: http://faroit.com/keras-docs/1.0.0/getting-started/sequential-model-guide/ [Accessed 7 Nov. 2019].<br><br>
+7. Brownlee, J. (2019). Your First Deep Learning Project in Python with Keras Step-By-Step. [online] Machine Learning Mastery. Available at: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/ [Accessed 7 Nov. 2019].<br><br>
+</div>
+<hr>
+
+
+
 
