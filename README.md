@@ -45,6 +45,7 @@ that can predict the median house price based on the other variables in the data
 5. Kaggle.com. (2019). Boston Housing Price dataset with Keras | Kaggle. [online] Available at: https://www.kaggle.com/shanekonaung/boston-housing-price-dataset-with-keras [Accessed 7 Nov. 2019].<br><br>
 6. Faroit.com. (2019). Guide to the Sequential model - Keras Documentation. [online] Available at: http://faroit.com/keras-docs/1.0.0/getting-started/sequential-model-guide/ [Accessed 7 Nov. 2019].<br><br>
 7. Brownlee, J. (2019). Your First Deep Learning Project in Python with Keras Step-By-Step. [online] Machine Learning Mastery. Available at: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/ [Accessed 7 Nov. 2019].<br><br>
+8. Medium. (2019). Exploring Activation Functions for Neural Networks. [online] Available at: https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02 [Accessed 7 Nov. 2019].<br><br>
 </div>
 <hr>
 
