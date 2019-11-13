@@ -46,6 +46,8 @@ that can predict the median house price based on the other variables in the data
 6. Faroit.com. (2019). Guide to the Sequential model - Keras Documentation. [online] Available at: http://faroit.com/keras-docs/1.0.0/getting-started/sequential-model-guide/ [Accessed 7 Nov. 2019].<br><br>
 7. Brownlee, J. (2019). Your First Deep Learning Project in Python with Keras Step-By-Step. [online] Machine Learning Mastery. Available at: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/ [Accessed 7 Nov. 2019].<br><br>
 8. Medium. (2019). Exploring Activation Functions for Neural Networks. [online] Available at: https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02 [Accessed 7 Nov. 2019].<br><br>
+9. range(Y.shape[0])&rdquo;?, W. and Ananthan, V. (2019). What does .shape[] do in "for i in range(Y.shape[0])"?. [online] Stack Overflow. Available at: https://stackoverflow.com/a/47321405 [Accessed 13 Nov. 2019].<br><br>
+10. Medium. (2019). Speed Up Your Exploratory Data Analysis With Pandas-Profiling. [online] Available at: https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625 [Accessed 13 Nov. 2019].<br><br>
 </div>
 <hr>
 
