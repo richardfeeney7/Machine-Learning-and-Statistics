@@ -49,6 +49,9 @@ that can predict the median house price based on the other variables in the data
 9. range(Y.shape[0])&rdquo;?, W. and Ananthan, V. (2019). What does .shape[] do in "for i in range(Y.shape[0])"?. [online] Stack Overflow. Available at: https://stackoverflow.com/a/47321405 [Accessed 13 Nov. 2019].<br><br>
 10. Medium. (2019). Speed Up Your Exploratory Data Analysis With Pandas-Profiling. [online] Available at: https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625 [Accessed 13 Nov. 2019].<br>
 11. Colab.research.google.com. (2019). Google Colaboratory. [online] Available at: https://colab.research.google.com/github/MarkDaoust/models/blob/add-regression-plots/samples/core/tutorials/keras/basic_regression.ipynb#scrollTo=mRklxK5s388r [Accessed 17 Nov. 2019].<br>
+12. Poduska, J. (2019). SHAP and LIME Python Libraries: Part 1 – Great Explainers, with Pros and Cons to Both. [online] Data Science Blog by Domino. Available at: https://blog.dominodatalab.com/shap-lime-python-libraries-part-1-great-explainers-pros-cons/ [Accessed 20 Nov. 2019].<br>
+13. platform)?, H., Vashishtha, S., Vashishtha, S., Zhang, S., Liu, G., alakhras, a. and Mathew, R. (2019). How to install xgboost in Anaconda Python (Windows platform)?. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/35139108/how-to-install-xgboost-in-anaconda-python-windows-platform [Accessed 20 Nov. 2019].<br>
+14. Kaggle.com. (2019). SHAP Values | Kaggle. [online] Available at: https://www.kaggle.com/dansbecker/shap-values/data [Accessed 20 Nov. 2019].<br>
 </div>
 <hr>
 
