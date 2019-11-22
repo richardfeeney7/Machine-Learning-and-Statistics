@@ -38,20 +38,22 @@ that can predict the median house price based on the other variables in the data
 
 ### Biobliography
 <div align="justify">
-1. GeeksforGeeks. (2019). Python | Pandas dataframe.corr() - GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/python-pandas-dataframe-corr/ [Accessed 7 Nov. 2019].<br><br>
-2. Scikit-learn.org. (2019). sklearn.model_selection.train_test_split — scikit-learn 0.21.3 documentation. [online] Available at: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html [Accessed 7 Nov. 2019].<br><br>
-3. Medium. (2019). How to split your dataset to train and test datasets using SciKit Learn. [online] Available at: https://medium.com/@contactsunny/how-to-split-your-dataset-to-train-and-test-datasets-using-scikit-learn-e7cf6eb5e0d [Accessed 7 Nov. 2019].<br><br>
-4. Singh, D. and scikit-learn, V. (2019). Validating Machine Learning Models with scikit-learn | Pluralsight. [online] Pluralsight.com. Available at: https://www.pluralsight.com/guides/validating-machine-learning-models-scikit-learn [Accessed 7 Nov. 2019].<br><br>
-5. Kaggle.com. (2019). Boston Housing Price dataset with Keras | Kaggle. [online] Available at: https://www.kaggle.com/shanekonaung/boston-housing-price-dataset-with-keras [Accessed 7 Nov. 2019].<br><br>
-6. Faroit.com. (2019). Guide to the Sequential model - Keras Documentation. [online] Available at: http://faroit.com/keras-docs/1.0.0/getting-started/sequential-model-guide/ [Accessed 7 Nov. 2019].<br><br>
+1. GeeksforGeeks. (2019). Python | Pandas dataframe.corr() - GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/python-pandas-dataframe-corr/ [Accessed 7 Nov. 2019].<br>
+2. Scikit-learn.org. (2019). sklearn.model_selection.train_test_split — scikit-learn 0.21.3 documentation. [online] Available at: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html [Accessed 7 Nov. 2019].<br>
+3. Medium. (2019). How to split your dataset to train and test datasets using SciKit Learn. [online] Available at: https://medium.com/@contactsunny/how-to-split-your-dataset-to-train-and-test-datasets-using-scikit-learn-e7cf6eb5e0d [Accessed 7 Nov. 2019].<br>
+4. Singh, D. and scikit-learn, V. (2019). Validating Machine Learning Models with scikit-learn | Pluralsight. [online] Pluralsight.com. Available at: https://www.pluralsight.com/guides/validating-machine-learning-models-scikit-learn [Accessed 7 Nov. 2019].<br>
+5. Kaggle.com. (2019). Boston Housing Price dataset with Keras | Kaggle. [online] Available at: https://www.kaggle.com/shanekonaung/boston-housing-price-dataset-with-keras [Accessed 7 Nov. 2019].<br>
+6. Faroit.com. (2019). Guide to the Sequential model - Keras Documentation. [online] Available at: http://faroit.com/keras-docs/1.0.0/getting-started/sequential-model-guide/ [Accessed 7 Nov. 2019].<br>
 7. Brownlee, J. (2019). Your First Deep Learning Project in Python with Keras Step-By-Step. [online] Machine Learning Mastery. Available at: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/ [Accessed 7 Nov. 2019].<br><br>
-8. Medium. (2019). Exploring Activation Functions for Neural Networks. [online] Available at: https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02 [Accessed 7 Nov. 2019].<br><br>
-9. range(Y.shape[0])&rdquo;?, W. and Ananthan, V. (2019). What does .shape[] do in "for i in range(Y.shape[0])"?. [online] Stack Overflow. Available at: https://stackoverflow.com/a/47321405 [Accessed 13 Nov. 2019].<br><br>
+8. Medium. (2019). Exploring Activation Functions for Neural Networks. [online] Available at: https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02 [Accessed 7 Nov. 2019].<br>
+9. range(Y.shape[0])&rdquo;?, W. and Ananthan, V. (2019). What does .shape[] do in "for i in range(Y.shape[0])"?. [online] Stack Overflow. Available at: https://stackoverflow.com/a/47321405 [Accessed 13 Nov. 2019].<br>
 10. Medium. (2019). Speed Up Your Exploratory Data Analysis With Pandas-Profiling. [online] Available at: https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625 [Accessed 13 Nov. 2019].<br>
 11. Colab.research.google.com. (2019). Google Colaboratory. [online] Available at: https://colab.research.google.com/github/MarkDaoust/models/blob/add-regression-plots/samples/core/tutorials/keras/basic_regression.ipynb#scrollTo=mRklxK5s388r [Accessed 17 Nov. 2019].<br>
 12. Poduska, J. (2019). SHAP and LIME Python Libraries: Part 1 – Great Explainers, with Pros and Cons to Both. [online] Data Science Blog by Domino. Available at: https://blog.dominodatalab.com/shap-lime-python-libraries-part-1-great-explainers-pros-cons/ [Accessed 20 Nov. 2019].<br>
 13. platform)?, H., Vashishtha, S., Vashishtha, S., Zhang, S., Liu, G., alakhras, a. and Mathew, R. (2019). How to install xgboost in Anaconda Python (Windows platform)?. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/35139108/how-to-install-xgboost-in-anaconda-python-windows-platform [Accessed 20 Nov. 2019].<br>
 14. Kaggle.com. (2019). SHAP Values | Kaggle. [online] Available at: https://www.kaggle.com/dansbecker/shap-values/data [Accessed 20 Nov. 2019].<br>
+15. Learndatasci.com. (2019). Predicting Housing Prices with Linear Regression using Python, pandas, and statsmodels. [online] Available at: https://www.learndatasci.com/tutorials/predicting-housing-prices-linear-regression-using-python-pandas-statsmodels/ [Accessed 22 Nov. 2019].<br>
+16. Ilango, G. (2019). Predicting Housing Prices using Regression Algorithms. [online] Gogul Ilango. Available at: https://gogul.dev/software/regression-example-boston-housing-prices [Accessed 22 Nov. 2019].<br>
 </div>
 <hr>
 
