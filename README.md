@@ -24,10 +24,10 @@ that can predict the median house price based on the other variables in the data
 
 ### How To Run The Boston House Prices Dataset
 <div align="justify">
-1. Download Cmder command line or use the command line on your computer.<br><br>
-2. Go to Github, find my repository or use the following link https://github.com/richardfeeney7/Machine-Learning-and-Statistics.git. Click on the Clone/Download button and select download zip. <br><br>
+1. Download Cmder command line or use the command line on your computer. (Please note that this project uses JS that might not display on github<br>
+2. Go to Github, find my repository or use the following link https://github.com/richardfeeney7/Machine-Learning-and-Statistics.git. Click on the Clone/Download button and select download zip. <br>
 3. Once downloaded go to the command line and navigate to this  download using the cd command. When I download the zip file, I first had to unzip it and cd into it, and within that folder I had another folder that I need to cd into also.<br><br>
-4. Once in the correct location type Jupyter Lab or Jupyter Notebook into the command like. This will open a web server where you can access the files. Depending on the settings this might open Internet Explorer, I would recommend closing that web page and use the web address that you can see in the command line. <br><br>
+4. Once in the correct location type Jupyter Lab or Jupyter Notebook into the command like. This will open a web server where you can access the files. Depending on the settings this might open Internet Explorer, I would recommend closing that web page and use the web address that you can see in the command line. <br>
 5. When you open the web server and can view my project file, open the <u><b><i>.ipynb</i></b></u> document to view the project. <br><br>
 6. See the below photo of steps that I took, please note that your machine and downloads might be in a different location. 
 <br><br>
@@ -35,6 +35,13 @@ that can predict the median house price based on the other variables in the data
 <p align ="center"><img src="images/CLI.JPG" alt="Command Line" width="600" height="300" title="CLI"/></p>
 </div>
 <hr>
+
+### Conclusion
+<div align="justify"> In conclusion this project was both hard and interesting, I have learned many new things and way to think and approach a task with a dataset. I have looked at the dataset and displayed my finding throughout the documents.
+
+The total number of houses along the river is 35 , and has median price in 000's was 23.30 while the total number of houses not along the river is 471 , and has a median price in 000's of 20.90, this is a difference of 2.4 which is not bad.
+
+Implemented Keras where I split the dataset up for testing, I created a graph that displays multiple regression options and what would be the best option for my model. This graph displayed that a Gradient Boosting Regressor would be the best option so I have implemented this along with a linear regression and the mean square error was much less at 10.235 while the linear regression mean square error was 19.296. I have also used KNN along with SHAP as another comparison. </div><br>
 
 ### Biobliography
 <div align="justify">
@@ -54,6 +61,12 @@ that can predict the median house price based on the other variables in the data
 14. Kaggle.com. (2019). SHAP Values | Kaggle. [online] Available at: https://www.kaggle.com/dansbecker/shap-values/data [Accessed 20 Nov. 2019].<br>
 15. Learndatasci.com. (2019). Predicting Housing Prices with Linear Regression using Python, pandas, and statsmodels. [online] Available at: https://www.learndatasci.com/tutorials/predicting-housing-prices-linear-regression-using-python-pandas-statsmodels/ [Accessed 22 Nov. 2019].<br>
 16. Ilango, G. (2019). Predicting Housing Prices using Regression Algorithms. [online] Gogul Ilango. Available at: https://gogul.dev/software/regression-example-boston-housing-prices [Accessed 22 Nov. 2019].<br>
+17. Medium. (2019). Activation Functions in Neural Networks. [online] Available at: https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6 [Accessed 22 Nov. 2019].<br>
+18. Medium. (2019). K-Fold Cross Validation. [online] Available at: https://medium.com/datadriveninvestor/k-fold-cross-validation-6b8518070833 [Accessed 23 Nov. 2019].<br>
+19. Statistics How To. (2019). Mean Squared Error: Definition and Example - Statistics How To. [online] Available at: https://www.statisticshowto.datasciencecentral.com/mean-squared-error/ [Accessed 23 Nov. 2019].>br>
+20. The Balance Small Business. (2019). How Simple Linear Regression, Used to Analyze Quantitative Data. [online] Available at: https://www.thebalancesmb.com/what-is-simple-linear-regression-2296697 [Accessed 23 Nov. 2019].<br>
+21. Agrimetsoft.com. (2019). Mean Absolute Error calculation. [online] Available at: https://agrimetsoft.com/calculators/Mean%20Absolute%20Error [Accessed 23 Nov. 2019].<br>
+22. Medium. (2019). Understanding Gradient Boosting Machines. [online] Available at: https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab [Accessed 23 Nov. 2019].<br>
 </div>
 <hr>
 
