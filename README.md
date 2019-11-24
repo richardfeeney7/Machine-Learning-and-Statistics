@@ -36,12 +36,6 @@ that can predict the median house price based on the other variables in the data
 </div>
 <hr>
 
-### Conclusion
-<div align="justify"> In conclusion this project was both hard and interesting, I have learned many new things and way to think and approach a task with a dataset. I have looked at the dataset and displayed my finding throughout the documents.
-
-The total number of houses along the river is 35 , and has median price in 000's was 23.30 while the total number of houses not along the river is 471 , and has a median price in 000's of 20.90, this is a difference of 2.4 which is not bad.
-
-Implemented Keras where I split the dataset up for testing, I created a graph that displays multiple regression options and what would be the best option for my model. This graph displayed that a Gradient Boosting Regressor would be the best option so I have implemented this along with a linear regression and the mean square error was much less at 10.235 while the linear regression mean square error was 19.296. I have also used KNN along with SHAP as another comparison. </div><br>
 
 ### Biobliography
 <div align="justify">
